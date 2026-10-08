@@ -1,4 +1,4 @@
-# Dian 👋
+# Dian Mamadou Diallo👋
 
 ### Data Analyst | Python | SQL | Machine Learning
 
